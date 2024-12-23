@@ -1,0 +1,4 @@
+\\apporto.com\dfs\SNHU\USERS\davidmcmurray_snhu\Documents\CornerGrocer\CornerGrocer\Debug\CornerGrocer.exe
+\\apporto.com\dfs\SNHU\USERS\davidmcmurray_snhu\Documents\CornerGrocer\CornerGrocer\Debug\CornerGrocer.pdb
+\\apporto.com\dfs\SNHU\USERS\davidmcmurray_snhu\Documents\project three\CornerGrocer Visual Studio Project\Debug\CornerGrocer.exe
+\\apporto.com\dfs\SNHU\USERS\davidmcmurray_snhu\Documents\project three\CornerGrocer Visual Studio Project\Debug\CornerGrocer.pdb
